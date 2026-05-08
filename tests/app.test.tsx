@@ -4,5 +4,5 @@ import { expect, test } from "vitest";
 
 
 test("renders auxiliary component correctly", async () => {
-  expect("dummy").toBeDefined();
+  expect(null).toBeDefined();
 });
